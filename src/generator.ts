@@ -6,7 +6,7 @@ interface Route {
   validation?: Joi.ObjectSchema;
 }
 
-interface SwaggerSpec {
+export interface SwaggerSpec {
   openapi: string;
   info: {
     title: string;

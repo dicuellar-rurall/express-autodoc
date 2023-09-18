@@ -6,7 +6,7 @@ Autogenera documentación Swagger para Express con TypeScript basándose en la d
 
 ```typescript
 import express from 'express';
-import generateSwaggerSpec from 'express-autodoc';
+import generateSwaggerSpec from 'express-autodoc-ts';
 
 const app = express();
 // ... tus rutas ...
