@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Otros
+*.log
+*.bak
+*.tmp
