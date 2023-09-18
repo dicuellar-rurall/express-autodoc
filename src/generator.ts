@@ -17,7 +17,7 @@ export interface SwaggerSpec {
 
 class SwaggerGenerator {
   private routes: Route[];
-  private readonly spec: SwaggerSpec;
+  public spec: SwaggerSpec;
 
   constructor(routes: Route[]) {
     this.routes = routes;

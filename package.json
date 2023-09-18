@@ -1,6 +1,6 @@
 {
   "name": "express-autodoc-ts",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Autogenera documentación Swagger para Express",
   "main": "dist/index.js",
   "scripts": {
